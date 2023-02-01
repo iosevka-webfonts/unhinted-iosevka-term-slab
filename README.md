@@ -1,6 +1,6 @@
-# Unhinted-iosevka-term-slab WebFont 17.1.0
+# Unhinted Iosevka Term Slab WebFont 17.1.0
 
 ## How to use
 
-- Add `<link href="https://iosevkawebfonts.github.io/Unhinted-iosevka-term-slab/Unhinted-iosevka-term-slab.css" rel="stylesheet" />` to your `<head>`.
-- Use `fontFamily: 'Unhinted iosevka term slab Web'` or `font-family: 'Unhinted iosevka term slab Web'`.
+- Add `<link href="https://iosevka-webfonts.github.io/unhinted-iosevka-term-slab/unhinted-iosevka-term-slab.css" rel="stylesheet" />` to your `<head>`.
+- Use `fontFamily: 'Iosevka Term Slab Web'` or `font-family: 'Iosevka Term Slab Web'`.

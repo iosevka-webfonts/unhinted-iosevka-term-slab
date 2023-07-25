@@ -1,4 +1,4 @@
-# Unhinted Iosevka Term Slab WebFont 25.0.1
+# Unhinted Iosevka Term Slab WebFont 25.1.1
 
 ## How to use
 
